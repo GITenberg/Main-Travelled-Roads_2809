@@ -1,0 +1,28 @@
+_repo: Main-Travelled-Roads_2809
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Mississippi River Valley -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: A branch road — Up the cooly — Among the corn-rows — The return of
+  a private — Under the lion's paw — The creamery man — A day's pleasure — Mrs. Ripley's
+  trip —  Uncle Ethan Ripley — God's Ravens — A "Good Fellow's" Wife
+title: Main-Travelled Roads
+url: http://www.gutenberg.org/ebooks/2809
