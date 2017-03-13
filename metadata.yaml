@@ -1,5 +1,8 @@
 _repo: Main-Travelled-Roads_2809
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garland, Hamlin
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1034
     wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2809#Main-Travelled-Roads
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
