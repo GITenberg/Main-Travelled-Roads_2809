@@ -1,5 +1,5 @@
 _repo: Main-Travelled-Roads_2809
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'Western stories'
 - !lcsh 'Mississippi River Valley -- Fiction'
 - !lcsh 'Short stories'
+- GITenberg
 tableOfContents: A branch road — Up the cooly — Among the corn-rows — The return of
   a private — Under the lion's paw — The creamery man — A day's pleasure — Mrs. Ripley's
   trip —  Uncle Ethan Ripley — God's Ravens — A "Good Fellow's" Wife
